@@ -4,6 +4,7 @@ filelock==3.16.1
 fsspec==2024.12.0
 huggingface-hub==0.27.0
 idna==3.10
+inquirerpy==0.3.4
 Jinja2==3.1.5
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
@@ -24,6 +25,8 @@ nvidia-nccl-cu12==2.21.5
 nvidia-nvjitlink-cu12==12.4.127
 nvidia-nvtx-cu12==12.4.127
 packaging==24.2
+pfzy==0.3.4
+prompt_toolkit==3.0.48
 Pygments==2.18.0
 python-dotenv==1.0.1
 PyYAML==6.0.2
@@ -32,6 +35,7 @@ requests==2.32.3
 rich==13.9.4
 safetensors==0.5.0
 setuptools==75.6.0
+six==1.17.0
 sympy==1.13.1
 tokenizers==0.21.0
 torch==2.5.1
@@ -40,4 +44,5 @@ transformers==4.47.1
 triton==3.1.0
 typing_extensions==4.12.2
 urllib3==2.3.0
+wcwidth==0.2.13
 wheel==0.45.1

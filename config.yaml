@@ -1,0 +1,10 @@
+project:
+  name: AI Office
+  path: ~/projects/ai_office
+system_specs:
+  gpu_name: NVIDIA GeForce RTX 3050
+  cpu_name: 11th Gen i5-11400F
+  ram: 16GB
+resources:
+  huggingface_token: YOUR_HUGGINGFACE_TOKEN
+  github_repo_url: https://github.com/your-username/ai_office
